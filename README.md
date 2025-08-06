@@ -170,3 +170,22 @@ Using **Riverpod** with **StateNotifier** pattern:
 - **Image caching** for user avatars
 - **Local data persistence** for offline support
 
+## 🚀 CI/CD Pipeline
+
+This project includes a comprehensive **GitHub Actions** CI/CD pipeline that automates testing, building, and deployment processes.
+
+### Pipeline Overview
+
+The CI/CD pipeline is triggered on:
+- **Push** to `main` and `develop` branches
+- **Pull requests** to `main` branch
+
+
+### Configuration
+
+The pipeline configuration is located in `.github/workflows/ci_cd.yml` and can be customized for:
+- Different Flutter versions
+- Additional testing frameworks
+- Custom deployment targets
+- Environment-specific configurations
+
