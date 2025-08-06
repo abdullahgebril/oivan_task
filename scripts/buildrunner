@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Exit on error
+set -e
+
+# Run flutter pub get to ensure dependencies are up to date
+echo "Running flutter pub get..."
+flutter pub get
+
+# Run build_runner to generate code
+echo "Running build_runner..."
+dart run build_runner build --delete-conflicting-outputs
+
+echo "Build completed successfully!"

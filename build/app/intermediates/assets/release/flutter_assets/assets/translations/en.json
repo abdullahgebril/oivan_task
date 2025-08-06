@@ -1,0 +1,83 @@
+{
+  "page_not_found": "Page Not Found",
+  "app": {
+    "title": "OIVAN"
+  },
+  "navigation": {
+    "users": "Users",
+    "bookmarks": "Bookmarks"
+  },
+  "screens": {
+    "users": {
+      "title": "StackOverflow Users",
+      "empty_title": "No Users Found",
+      "empty_subtitle": "Pull to refresh and try again"
+    },
+    "bookmarks": {
+      "title": "Bookmarked Users",
+      "empty_title": "No Bookmarks Yet",
+      "empty_subtitle": "Start bookmarking users to see them here",
+      "loading_title": "Loading Bookmarked Users",
+      "loading_subtitle": "Please go to Users tab first to load user data",
+      "clear_all": "Clear All Bookmarks",
+      "clear_confirmation": "Are you sure you want to remove all bookmarks?",
+      "cancel": "Cancel",
+      "clear": "Clear All" ,
+      "added_to_bookmarks": "Added to bookmarks successfully",
+      "removed_from_bookmarks": "Removed from bookmarks successfully",
+      "all_bookmarks_cleared": "All bookmarks cleared successfully"
+    },
+    "reputation": {
+      "title": "Reputation History",
+      "empty_title": "No Reputation History",
+      "empty_subtitle": "This user has no reputation history yet"
+    }
+  },
+  "actions": {
+    "try_again": "Try Again",
+    "refresh": "Refresh"
+  },
+  "errors": {
+    "connection_timed_out": "Connection timed out",
+    "bad_certificate": "Bad certificate",
+    "request_cancelled": "Request cancelled",
+    "no_internet_connection": "No internet connection",
+    "unexpected_error_occurred": "Unexpected error occurred",
+    "bad_request": "Bad request",
+    "unauthorized": "Unauthorized , Please login again",
+    "server_error": "Server error , Please try again later",
+    "timeout": "Timeout , Please try again later",
+    "network_error": "Network error , Please try again later",
+    "forbidden": "Forbidden , Please try again later",
+    "not_found": "Not found , Please try again later",
+    "internal_server_error": "Internal server error , Please try again later",
+    "bad_gateway": "Bad gateway , Please try again later",
+    "service_unavailable": "Service unavailable , Please try again later",
+    "gateway_timeout": "Gateway timeout , Please try again later",
+    "http_version_not_supported": "HTTP version not supported , Please try again later",
+    "iam_login_failed": "Login failed",
+    "general_error": "Oops! Something went wrong",
+    "general_error_subtitle": "An unexpected error occurred. Please try again."
+  },
+  "success_state": {
+    "iam_login_successful": "Login successful"
+  },
+  "loading_state": {
+    "signing_in": "Loading..."
+  },
+  "date": {
+    "unknown_date": "Unknown date",
+    "unknown_time": "Unknown time",
+    "just_now": "Just now",
+    "days_ago": "{count} day ago",
+    "days_ago_plural": "{count} days ago",
+    "hours_ago": "{count} hour ago",
+    "hours_ago_plural": "{count} hours ago",
+    "minutes_ago": "{count} minute ago",
+    "minutes_ago_plural": "{count} minutes ago"
+  },
+  "reputation": {
+    "post_id": "Post ID: {id}",
+    "unknown_activity": "Unknown Activity"
+  }
+}

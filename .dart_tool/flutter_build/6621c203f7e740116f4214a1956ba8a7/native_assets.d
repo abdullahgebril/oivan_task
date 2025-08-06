@@ -1,0 +1,1 @@
+ /Users/abdullah.abdelmoneam/oivan_task/.dart_tool/flutter_build/6621c203f7e740116f4214a1956ba8a7/native_assets.yaml: 

@@ -1,0 +1,83 @@
+{
+  "page_not_found": "الصفحة غير موجودة",
+  "app": {
+    "title": "أويفان"
+  },
+  "navigation": {
+    "users": "المستخدمون",
+    "bookmarks": "المفضلة"
+  },
+  "screens": {
+    "users": {
+      "title": "مستخدمو StackOverflow",
+      "empty_title": "لا يوجد مستخدمون",
+      "empty_subtitle": "اسحب للأسفل لتحديث والمحاولة مرة أخرى"
+    },
+    "bookmarks": {
+      "title": "المستخدمون المفضلون",
+      "empty_title": "لا توجد مفضلات بعد",
+      "empty_subtitle": "ابدأ بإضافة مستخدمين للمفضلة لرؤيتهم هنا",
+      "loading_title": "تحميل المستخدمين المفضلين",
+      "loading_subtitle": "يرجى الذهاب إلى تبويب المستخدمين أولاً لتحميل البيانات",
+      "clear_all": "مسح جميع المفضلات",
+      "clear_confirmation": "هل أنت متأكد من أنك تريد إزالة جميع المفضلات؟",
+      "cancel": "إلغاء",
+      "clear": "مسح الكل",
+      "added_to_bookmarks": "تم إضافة المستخدم إلى المفضلة بنجاح",
+      "removed_from_bookmarks": "تم إزالة المستخدم من المفضلة بنجاح",
+      "all_bookmarks_cleared": "تم مسح جميع المفضلات بنجاح"
+    },
+    "reputation": {
+      "title": "تاريخ السمعة",
+      "empty_title": "لا يوجد تاريخ سمعة",
+      "empty_subtitle": "هذا المستخدم ليس لديه تاريخ سمعة بعد"
+    }
+  },
+  "actions": {
+    "try_again": "حاول مرة أخرى",
+    "refresh": "تحديث"
+  },
+  "errors": {
+    "connection_timed_out": "وقت الاتصال انتهى",
+    "bad_certificate": "الشهادة غير صالحة",
+    "request_cancelled": "تم الإلغاء",
+    "no_internet_connection": "لا يوجد اتصال بالإنترنت",
+    "unexpected_error_occurred": "حدث خطأ غير متوقع",
+    "bad_request": "طلب غير صالح",
+    "unauthorized": "غير مصرح لك , يرجى تسجيل الدخول مرة أخرى",
+    "server_error": "خطأ في الخادم , يرجى المحاولة مرة أخرى لاحقا",
+    "timeout": "وقت انتهى , يرجى المحاولة مرة أخرى لاحقا",
+    "network_error": "خطأ في الشبكة , يرجى المحاولة مرة أخرى لاحقا",
+    "forbidden": "غير مصرح لك , يرجى تسجيل الدخول مرة أخرى",
+    "not_found": "غير موجود , يرجى المحاولة مرة أخرى لاحقا",
+    "internal_server_error": "خطأ في الخادم , يرجى المحاولة مرة أخرى لاحقا",
+    "bad_gateway": "خطأ في البوابة , يرجى المحاولة مرة أخرى لاحقا",
+    "service_unavailable": "خدمة غير متاحة , يرجى المحاولة مرة أخرى لاحقا",
+    "gateway_timeout": "وقت انتهى للبوابة , يرجى المحاولة مرة أخرى لاحقا",
+    "http_version_not_supported": "نسخة الـ HTTP غير مدعومة , يرجى المحاولة مرة أخرى لاحقا",
+    "iam_login_failed": "فشل تسجيل الدخول",
+    "general_error": "عذراً! حدث خطأ",
+    "general_error_subtitle": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى."
+  },
+  "success_state": {
+    "iam_login_successful": "تسجيل الدخول بنجاح" 
+  },
+  "loading_state": {
+    "signing_in": "جاري التحميل..."
+  },
+  "date": {
+    "unknown_date": "تاريخ غير معروف",
+    "unknown_time": "وقت غير معروف",
+    "just_now": "الآن",
+    "days_ago": "منذ يوم واحد",
+    "days_ago_plural": "منذ {count} أيام",
+    "hours_ago": "منذ ساعة واحدة",
+    "hours_ago_plural": "منذ {count} ساعات",
+    "minutes_ago": "منذ دقيقة واحدة",
+    "minutes_ago_plural": "منذ {count} دقائق"
+  },
+  "reputation": {
+    "post_id": "معرف المنشور: {id}",
+    "unknown_activity": "نشاط غير معروف"
+  }
+}

@@ -1,0 +1,4 @@
+#Wed Aug 06 10:08:20 EEST 2025
+base.0=/Users/abdullah.abdelmoneam/oivan_task/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
